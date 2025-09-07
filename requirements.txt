@@ -4,7 +4,6 @@ torch==2.0.1
 torchvision==0.15.1
 torchaudio==2.0.1
 transformers==4.35.2
-diffusers==0.24.0
 accelerate==0.24.1
 
 # MuseTalk specific dependencies
@@ -19,24 +18,14 @@ resampy==0.4.2
 omegaconf==2.3.0
 
 # Face processing
-face-alignment==1.4.1
 mediapipe==0.10.7
-
-# MMlab packages
-openmim==0.3.9
-mmengine==0.10.1
-mmcv==2.0.1
-mmdet==3.1.0  
-mmpose==1.1.0
 
 # Video processing
 moviepy==1.0.3
 ffmpeg-python==0.2.0
 
 # Audio processing
-whisper==1.1.10
 soundfile==0.12.1
-audio2numpy==0.1.2
 
 # RunPod and storage
 runpod==1.5.1
@@ -46,7 +35,7 @@ requests==2.31.0
 # Utilities
 tqdm==4.66.1
 pyyaml==6.0.1
-gradio==4.8.0
 huggingface-hub==0.19.4
-gdown==4.7.1
+
+
 
