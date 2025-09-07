@@ -19,7 +19,7 @@ RUN apt-get update && apt-get install -y \
     unzip \
     aria2 \
     build-essential \
-    python3.9-dev \
+    python3-dev \
     libgl1-mesa-glx \
     libglib2.0-0 \
     libsm6 \
